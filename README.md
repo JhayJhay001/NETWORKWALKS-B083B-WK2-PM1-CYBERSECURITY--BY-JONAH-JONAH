@@ -4,14 +4,14 @@
 Week 2 practical report from the **Networkwalks Cybersecurity Internship Program**, covering the reconnaissance/footprinting phase against an authorized target domain and a network scanning exercise on a local LAN.
 
 ## Author
-**Muhammad Moazam Tariq**
+**Jonah Edem Jonah**
 Cybersecurity Professional — Networkwalks Internship Program
 
 ## Project Info
 - **Program:** Cybersecurity Program at Networkwalks
 - **Week:** 02
 - **Modules:** W2-PM1 (Multiple Kali Tools), W2-PM5 (Zenmap Scanning)
-- **Date:** 21 August 2026
+- **Date:** 15th September 2026
 
 ## Scope & Authorization
 - **Target 1:** networkwalks.com — tested with written permission from Networkwalks
